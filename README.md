@@ -163,8 +163,8 @@
 
 
 ### PLOTS
-
-
+![alt text](https://github.com/RajidiSahithi/SahithiR_ERA_Session7/blob/main/Images7/model2_res.png)
+![alt text](https://github.com/RajidiSahithi/SahithiR_ERA_Session7/blob/main/Images7/model2_graph.png)
 
 ## MODEL_3
 ### TARGET
@@ -242,6 +242,7 @@
 
 
 ### PLOTS
-
+![alt text](https://github.com/RajidiSahithi/SahithiR_ERA_Session7/blob/main/Images7/model3_res.png)
+![alt text](https://github.com/RajidiSahithi/SahithiR_ERA_Session7/blob/main/Images7/model3_graph.png)
 
 
