@@ -74,8 +74,8 @@
 
 ### PLOTS and OUTPUT
 
-![alt text]https://github.com/RajidiSahithi/SahithiR_ERA_Session7/blob/main/Images7/model1_res.png
-![alt text]https://github.com/RajidiSahithi/SahithiR_ERA_Session7/blob/main/Images7/model1_graph.png
+![alt text] (https://github.com/RajidiSahithi/SahithiR_ERA_Session7/blob/main/Images7/model1_res.png)
+![alt text] (https://github.com/RajidiSahithi/SahithiR_ERA_Session7/blob/main/Images7/model1_graph.png)
 
 ## MODEL_2
 ### TARGET
